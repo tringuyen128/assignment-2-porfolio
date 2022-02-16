@@ -35,3 +35,7 @@ The following animation shows the web application's appearance and functionality
 # Technologies used
 HTML
 CSS
+Javascript
+MDBootstrap
+Third-Party APIs
+Jquery
